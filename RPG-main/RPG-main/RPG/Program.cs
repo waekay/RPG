@@ -158,6 +158,9 @@
                 Console.WriteLine("GAME OVER");
                 return;
             }
+
+            Console.WriteLine(" ");
+            Console.WriteLine("Congrats on beating Level 1!");
         }
 
         public static bool StartCombat(ref int playerHP, ref List<string> inventory, ref int currentWeaponDamage, string enemyName, int enemyHP, int enemyDMG)

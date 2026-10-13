@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thewa\\Downloads\\RPG-main\\RPG-main\\RPG\\RPG.csproj": {}
+    "C:\\RPG\\RPG-main\\RPG-main\\RPG\\RPG.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thewa\\Downloads\\RPG-main\\RPG-main\\RPG\\RPG.csproj": {
+    "C:\\RPG\\RPG-main\\RPG-main\\RPG\\RPG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thewa\\Downloads\\RPG-main\\RPG-main\\RPG\\RPG.csproj",
+        "projectUniqueName": "C:\\RPG\\RPG-main\\RPG-main\\RPG\\RPG.csproj",
         "projectName": "RPG",
-        "projectPath": "C:\\Users\\thewa\\Downloads\\RPG-main\\RPG-main\\RPG\\RPG.csproj",
+        "projectPath": "C:\\RPG\\RPG-main\\RPG-main\\RPG\\RPG.csproj",
         "packagesPath": "C:\\Users\\thewa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thewa\\Downloads\\RPG-main\\RPG-main\\RPG\\obj\\",
+        "outputPath": "C:\\RPG\\RPG-main\\RPG-main\\RPG\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thewa\\AppData\\Roaming\\NuGet\\NuGet.Config",
