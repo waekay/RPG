@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\thewa\\Downloads\\RPG-main\\RPG-main\\",
+  "WorkspaceRootPath": "C:\\RPG\\RPG-main\\RPG-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{429426E5-E7DC-54CD-8027-202AB1B56F9E}|RPG\\RPG.csproj|c:\\users\\thewa\\downloads\\rpg-main\\rpg-main\\rpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{429426E5-E7DC-54CD-8027-202AB1B56F9E}|RPG\\RPG.csproj|c:\\rpg\\rpg-main\\rpg-main\\rpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{429426E5-E7DC-54CD-8027-202AB1B56F9E}|RPG\\RPG.csproj|solutionrelative:rpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\thewa\\Downloads\\RPG-main\\RPG-main\\RPG\\Program.cs",
+              "DocumentMoniker": "C:\\RPG\\RPG-main\\RPG-main\\RPG\\Program.cs",
               "RelativeDocumentMoniker": "RPG\\Program.cs",
-              "ToolTip": "C:\\Users\\thewa\\Downloads\\RPG-main\\RPG-main\\RPG\\Program.cs",
+              "ToolTip": "C:\\RPG\\RPG-main\\RPG-main\\RPG\\Program.cs",
               "RelativeToolTip": "RPG\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAqwIgAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKIAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-08T06:20:41.19Z",
               "EditorCaption": ""
